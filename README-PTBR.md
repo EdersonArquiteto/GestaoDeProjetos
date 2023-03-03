@@ -31,7 +31,7 @@ Ainda está faltando concluir a parte de Tarefas;
 
 ## ✒️ Autor
 
-* **Arquiteto de Software** - [umdesenvolvedor](https://github.com/EdersonArquiteto)
+* **Arquiteto de Software** - [Ederson Silva](https://github.com/EdersonArquiteto)
 
 
 
